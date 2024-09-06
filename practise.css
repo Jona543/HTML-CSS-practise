@@ -31,3 +31,15 @@ ul {
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.greenTextPlease {
+    color: green;
+}
+
+#main-heading {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+ol {
+    padding-left: 500px;
+}
