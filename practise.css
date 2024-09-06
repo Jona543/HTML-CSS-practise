@@ -18,6 +18,7 @@ p1 {
     text-decoration-color: brown;
 }
 p2 {
+    border: 200px;
     padding-left: 500px;
 }
 p3 {
@@ -42,4 +43,8 @@ body {
 }
 ol {
     padding-left: 500px;
+}
+
+#main-heading:hover {
+    color: gold;
 }
